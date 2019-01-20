@@ -2,7 +2,7 @@
 
 <p>This project comes as part of Computer Vision
 subject at Computer Science postgraduate studies. The main
-goal of this project is to make software which input is leaf image
+goal of this project was to make software which input is leaf image
 from which software recognizes the leaf type. This project put in
 use vast majority of theoretical knowledge learned on Computer
 Vision subject.</p>
