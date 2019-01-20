@@ -8,7 +8,7 @@ use vast majority of theoretical knowledge learned on Computer
 Vision subject.</p>
 
 <h2> Implementation </h2>
-<p>It is based on mexopencv library which is development
+<p>It is based on mexopencv library which is development
 kit of MATLAB MEX functions for OpenCV library. The
 package provides MATLAB MEX functions that interface
 with hundreds of OpenCV APIs. Also the package contains
@@ -29,3 +29,15 @@ with smallest Euclidean distance compared to the input leaf
 image. Since this software is still in prototype phase it prints out euclidean distance on every iteration (for every image
 from data-set) since this data are giving a lot of information
 to developer and it will be used while further development. <a href="https://github.com/unimer/Leaf-Recognition/blob/master/report_ieeeconf.pdf">Read More</a></p>
+
+<h2> Usage </h2>
+
+<p> To use this program, call match.m as matlab/octave function;
+The function match doesn't take any arguments;
+
+Calling match.m function will open window for file selection;
+
+After selecting input file for comparison program will calculate differences between
+input image and database image.
+Then it will print name of file(image) with smallest difference; </p>
+
