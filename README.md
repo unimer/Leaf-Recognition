@@ -33,11 +33,11 @@ to developer and it will be used while further development. <a href="https://git
 <h2> Usage </h2>
 
 <p> To use this program, call match.m as matlab/octave function;
-The function match doesn't take any arguments;
+The function match doesn't take any arguments.
 
-Calling match.m function will open window for file selection;
+Calling match.m function will open window for file selection.
 
 After selecting input file for comparison program will calculate differences between
-input image and database image.
-Then it will print name of file(image) with smallest difference; </p>
+input leaf image and images from data-set.
+Then it will print name of file(image) with smallest difference </p>
 
